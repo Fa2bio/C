@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1532849351 source:c:\users\fábio silva\desktop\faculdade\c\lista de chamada\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LISTA_1.h"
+	"LISTA_2.h"
+
+1532849513 c:\users\fábio silva\desktop\faculdade\c\lista de chamada\lista_1.h
+	"arquivo.h"
+	<string.h>
+	<ctype.h>
+
+1532848206 c:\users\fábio silva\desktop\faculdade\c\lista de chamada\arquivo.h
+
+1532849351 c:\users\fábio silva\desktop\faculdade\c\lista de chamada\lista_2.h
+	"LISTA_1.h"
+	<locale.h>
+
